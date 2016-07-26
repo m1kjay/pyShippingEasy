@@ -1,5 +1,5 @@
 # pyShippingEasy
-Provide a thin wrapper around the ShippingEasy API, making it easy to send and sign requests.
+Provide a thin wrapper around the ShippingEasy API, making it easy to send and sign requests.  This is not an official project, and is not affiliated with ShippingEasy.
 Reference https://shippingeasy.readme.io/docs/getting-started for API argument formats.
 
 This module requires requests module, which can be obtained via pip. Methods return a requests object.
